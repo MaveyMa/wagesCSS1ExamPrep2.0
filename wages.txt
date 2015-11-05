@@ -1,0 +1,3 @@
+Maria     Smith     48   21.85     
+Tom       Rodriguez 40   13.98     
+Sam       Lee       33   12.24     
